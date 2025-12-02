@@ -1,0 +1,20 @@
+{
+  "name": "com.aela.tmp-localization",
+  "version": "1.0.0",
+  "displayName": "AeLa TMP Localization",
+  "description": "A solution for localizing TMP text elements with differing fonts per locale.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/aestheticianlabs/com.aela.tmp-localization/",
+  "dependencies": {},
+  "author": {
+	 "name": "Aesthetician Labs",
+	 "url": "https://aesthetic.games/"
+  },
+  "samples": [
+        {
+            "displayName": "Example Setup",
+            "description": "Contains a sample prefab demonstrating the use of the script.",
+            "path": "Samples~/Prefabs"
+        }
+    ]
+}

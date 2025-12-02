@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: TestFonts
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 57582ce416338f0489be644683c0ceee, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: e69cc1333ba7e4f46bd6780991e4c4f1, type: 2}
+  - {fileID: 11400000, guid: 3b7d7f46893a209489051e104448c69d, type: 2}
+  - {fileID: 11400000, guid: 6bab4807d10a8984a8489400fe21a891, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []
