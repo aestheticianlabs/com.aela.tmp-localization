@@ -1,6 +1,6 @@
 {
   "name": "com.aela.tmp-localization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "AeLa TMP Localization",
   "description": "A solution for localizing TMP text elements with differing fonts per locale.",
   "unity": "6000.0",
@@ -15,7 +15,7 @@
   "samples": [
     {
       "displayName": "Example Setup",
-      "description": "Contains a sample prefab demonstrating the use of the script.",
+      "description": "Contains a sample prefab, scene, locales, and table demonstrating the use of the script.",
       "path": "Samples~/Sample Setup"
     }
   ]
